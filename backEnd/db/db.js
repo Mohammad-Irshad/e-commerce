@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const mongoURI = "mongodb+srv://Mohammad_Irshad:ffn2kVq5DCU8G8Kp@neog.8ghcryo.mongodb.net/?retryWrites=true&w=majority&appName=neoG"
+// const mongoURI = i remove the connection string intentionally
 
 const initializeDatabase = async () => {
   try{
