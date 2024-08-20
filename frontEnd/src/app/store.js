@@ -8,18 +8,4 @@ export default configureStore({
     }
 })
 
-// export default store
 
-
-
-// store.js
-// import { configureStore } from "@reduxjs/toolkit";
-// import 
-
-// const store = configureStore({
-//   reducer: {
-//     products: productsReducer,
-//   },
-// });
-
-// export default store;
